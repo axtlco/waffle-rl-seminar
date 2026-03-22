@@ -4,7 +4,6 @@
 ## Overview
 - **교재**: Richard S. Sutton and Andrew G. Barto, *Reinforcement Learning: An Introduction* (2nd Edition)
 - **진행 방식**: 매주 토요일, 한 챕터씩 세미나 진행
-- **자료 형식**: PDF
 - **시작일**: 2026-03-21 (Sat)
 - **참여자**: 
 
