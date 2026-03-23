@@ -8,6 +8,7 @@
 - **참여자**:
   - 유희철 ([@axtlco](https://github.com/axtlco))
   - 최은제 ([@pwsmd](https://github.com/pwsmd))
+  - 이상현 ([@nailegg](https://github.com/nailegg))
   - 성환규 ([@MaryDenyaGoyio](https://github.com/MaryDenyaGoyio))
 
 ## Schedule (Tentative)
