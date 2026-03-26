@@ -16,7 +16,7 @@
 | 주차 | 날짜 | 내용 | 발표자 | 자료 | Additional Material |
 |------|------|------|--------|------|---------------------|
 | 1 | 03/21 | Chapter 2: Multi-armed Bandits | [@pwsmd](https://github.com/pwsmd) | [PDF](01-Material/Chap02_Multi-armed_Bandits.pdf) | [Derivation of UCB Algorithm](02-Additional_Material/260322_Derivation_of_UCB_Algorithm.pdf) ([@MaryDenyaGoyio](https://github.com/MaryDenyaGoyio)) |
-| 2 | 03/28 | Chapter 3: Finite Markov Decision Processes | | [PDF](01-Material/Chap03_Finite_Markov_Decision_Processes.pdf) | |
+| 2 | 03/28 | Chapter 3: Finite Markov Decision Processes | [@axtlco](https://github.com/axtlco) | [PDF](01-Material/Chap03_Finite_Markov_Decision_Processes.pdf) | |
 | 3 | 04/04 | Chapter 4: Dynamic Programming | | [PDF](01-Material/Chap04_Dynamic_Programming.pdf) | |
 | 4 | 04/11 | Chapter 5: Monte Carlo Methods | | [PDF](01-Material/Chap05_Monte_Carlo_Methods.pdf) | |
 | 5 | 04/18 | Chapter 6: Temporal-Difference Learning | | [PDF](01-Material/Chap06_Temporal-Difference_Learning.pdf) | |
