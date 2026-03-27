@@ -16,17 +16,17 @@
 | 주차 | 날짜 | 내용 | 발표자 | 자료 | Additional Material |
 |------|------|------|--------|------|---------------------|
 | 1 | 03/21 | Chapter 2: Multi-armed Bandits | [@pwsmd](https://github.com/pwsmd) | [PDF](01-Material/Chap02_Multi-armed_Bandits.pdf) | [Derivation of UCB Algorithm](02-Additional_Material/260322_Derivation_of_UCB_Algorithm.pdf) ([@MaryDenyaGoyio](https://github.com/MaryDenyaGoyio)) |
-| 2 | 03/28 | Chapter 3: Finite Markov Decision Processes | [@axtlco](https://github.com/axtlco) | [PDF](01-Material/Chap03_Finite_Markov_Decision_Processes.pdf) | |
-| 3 | 04/04 | Chapter 4: Dynamic Programming | | [PDF](01-Material/Chap04_Dynamic_Programming.pdf) | |
-| 4 | 04/11 | Chapter 5: Monte Carlo Methods | | [PDF](01-Material/Chap05_Monte_Carlo_Methods.pdf) | |
-| 5 | 04/18 | Chapter 6: Temporal-Difference Learning | | [PDF](01-Material/Chap06_Temporal-Difference_Learning.pdf) | |
-| 6 | 04/25 | Chapter 7: n-step Bootstrapping | | [PDF](01-Material/Chap07_n-step_Bootstrapping.pdf) | |
-| 7 | 05/02 | Chapter 8: Planning and Learning with Tabular Methods | | [PDF](01-Material/Chap08_Planning_and_Learning_with_Tabular_Methods.pdf) | |
-| 8 | 05/09 | Chapter 9: On-policy Prediction with Approximation | | [PDF](01-Material/Chap09_On-policy_Prediction_with_Approximation.pdf) | |
-| 9 | 05/16 | Chapter 10: On-policy Control with Approximation | | [PDF](01-Material/Chap10_On-policy_Control_with_Approximation.pdf) | |
-| 10 | 05/23 | Chapter 11: Off-policy Methods with Approximation | | [PDF](01-Material/Chap11_Off-policy_Methods_with_Approximation.pdf) | |
-| 11 | 05/30 | Chapter 12: Eligibility Traces | | [PDF](01-Material/Chap12_Eligibility_Traces.pdf) | |
-| 12 | 06/06 | Chapter 13: Policy Gradient Methods | | [PDF](01-Material/Chap13_Policy_Gradient_Methods.pdf) | |
+| 2 | 03/28 | Chapter 3: Finite Markov Decision Processes | [@axtlco](https://github.com/axtlco) | [PDF](01-Material/Week2_Finite_Markov_Decision_Processes.pdf) | |
+| 3 | 04/04 | Chapter 4: Dynamic Programming | |  | |
+| 4 | 04/11 | Chapter 5: Monte Carlo Methods | |  | |
+| 5 | 04/18 | Chapter 6: Temporal-Difference Learning | |  | |
+| 6 | 04/25 | Chapter 7: n-step Bootstrapping | |  | |
+| 7 | 05/02 | Chapter 8: Planning and Learning with Tabular Methods | |  | |
+| 8 | 05/09 | Chapter 9: On-policy Prediction with Approximation | |  | |
+| 9 | 05/16 | Chapter 10: On-policy Control with Approximation | |  | |
+| 10 | 05/23 | Chapter 11: Off-policy Methods with Approximation | |  | |
+| 11 | 05/30 | Chapter 12: Eligibility Traces | |  | |
+| 12 | 06/06 | Chapter 13: Policy Gradient Methods | |  | |
 
 ## Reference Book
 Richard S. Sutton and Andrew G. Barto, *Reinforcement Learning: An Introduction* (2nd Edition)
