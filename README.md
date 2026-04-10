@@ -19,14 +19,14 @@
 | 2 | 03/28 | Chapter 3: Finite Markov Decision Processes | [@axtlco](https://github.com/axtlco) | [PDF](01-Material/Week02_Finite_Markov_Decision_Processes.pdf) | |
 | 3 | 04/04 | Chapter 4: Dynamic Programming | [@nailegg](https://github.com/nailegg) |  | |
 | 4 | 04/11 | Chapter 5: Monte Carlo Methods | [@pwsmd](https://github.com/pwsmd) |  | |
-| 5 | 04/18 | Chapter 6: Temporal-Difference Learning | |  | |
-| 6 | 04/25 | Chapter 7: n-step Bootstrapping | |  | |
-| 7 | 05/02 | Chapter 8: Planning and Learning with Tabular Methods | |  | |
-| 8 | 05/09 | Chapter 9: On-policy Prediction with Approximation | |  | |
-| 9 | 05/16 | Chapter 10: On-policy Control with Approximation | |  | |
-| 10 | 05/23 | Chapter 11: Off-policy Methods with Approximation | |  | |
-| 11 | 05/30 | Chapter 12: Eligibility Traces | |  | |
-| 12 | 06/06 | Chapter 13: Policy Gradient Methods | |  | |
+| 5 | 05/02 | Chapter 6: Temporal-Difference Learning | |  | |
+| 6 | 05/09 | Chapter 7: n-step Bootstrapping | |  | |
+| 7 | 05/16 | Chapter 8: Planning and Learning with Tabular Methods | |  | |
+| 8 | 05/23 | Chapter 9: On-policy Prediction with Approximation | |  | |
+| 9 | 05/30 | Chapter 10: On-policy Control with Approximation | |  | |
+| 10 | 06/06 | Chapter 11: Off-policy Methods with Approximation | |  | |
+| 11 | 06/13 | Chapter 12: Eligibility Traces | |  | |
+| 12 | 06/20 | Chapter 13: Policy Gradient Methods | |  | |
 
 ## Reference Book
 Richard S. Sutton and Andrew G. Barto, *Reinforcement Learning: An Introduction* (2nd Edition)
