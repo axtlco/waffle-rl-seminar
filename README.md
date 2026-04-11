@@ -17,9 +17,9 @@
 |------|------|------|--------|------|---------------------|
 | 1 | 03/21 | Chapter 2: Multi-armed Bandits | [@pwsmd](https://github.com/pwsmd) | [PDF](01-Material/Chap02_Multi-armed_Bandits.pdf) | [Derivation of UCB Algorithm](02-Additional_Material/260322_Derivation_of_UCB_Algorithm.pdf) ([@MaryDenyaGoyio](https://github.com/MaryDenyaGoyio)) |
 | 2 | 03/28 | Chapter 3: Finite Markov Decision Processes | [@axtlco](https://github.com/axtlco) | [PDF](01-Material/Week02_Finite_Markov_Decision_Processes.pdf) | |
-| 3 | 04/04 | Chapter 4: Dynamic Programming | [@nailegg](https://github.com/nailegg) |  | |
-| 4 | 04/11 | Chapter 5: Monte Carlo Methods | [@pwsmd](https://github.com/pwsmd) |  | |
-| 5 | 05/02 | Chapter 6: Temporal-Difference Learning | |  | |
+| 3 | 04/04 | Chapter 4: Dynamic Programming | [@nailegg](https://github.com/nailegg) | [PDF](01-Material/Week03_Dynamic_Programming.pdf) | |
+| 4 | 04/11 | Chapter 5: Monte Carlo Methods | [@pwsmd](https://github.com/pwsmd) | [PDF](01-Material/Week04_Monte_Carlo_Methods.pptx) | |
+| 5 | 05/02 | Chapter 6: Temporal-Difference Learning | [@axtlco](https://github.com/axtlco) |  | |
 | 6 | 05/09 | Chapter 7: n-step Bootstrapping | |  | |
 | 7 | 05/16 | Chapter 8: Planning and Learning with Tabular Methods | |  | |
 | 8 | 05/23 | Chapter 9: On-policy Prediction with Approximation | |  | |
